@@ -1,0 +1,90 @@
+.all {
+    width: 60%;
+    margin: auto;
+}
+
+.main,
+.g,
+.h {
+    color: aliceblue;
+}
+
+.b1,
+.b2,
+.b3,
+.b4,
+.b5 {
+    background-color: white;
+}
+
+.b1 {
+    border: dotted 2px black;
+    margin-bottom: -9px;
+}
+
+.b2 {
+    border: dotted 2px black;
+    margin-top: 21px;
+    margin-bottom: -9px;
+}
+
+.b3 {
+    border: dotted 2px black;
+    margin-top: 21px;
+    margin-bottom: -9px;
+}
+
+.b4 {
+    border: dotted 2px black;
+    margin-top: 21px;
+    margin-bottom: -9px;
+}
+
+.b5 {
+    border: dotted 2px black;
+    margin-top: 21px;
+    margin-bottom: 20px;
+}
+
+.one {
+    color: blue;
+    margin-left: 3px;
+}
+
+.main {
+    font-size: 30px;
+    margin-bottom: -8px;
+}
+
+.v {
+    font-size: 25px;
+    margin: -8px 0 -15px 8px;
+}
+
+#two {
+    color: white;
+    font-size: 30px;
+    margin-bottom: -10px;
+}
+
+.t {
+    color: white;
+}
+
+.d {
+    margin-top: -20px;
+    color: blue;
+    margin-left: 3px;
+}
+
+.s {
+    margin-bottom: -15px;
+}
+
+.a {
+    margin-bottom: -15px;
+}
+
+.w {
+    margin-bottom: -15px;
+}
